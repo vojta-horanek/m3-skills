@@ -1,0 +1,1424 @@
+{
+  "extraction_date": "2026-10-14",
+  "content_version": "2026-09-23_06-10-05",
+  "skill_count": 37,
+  "supplied_resource_count": 177,
+  "resources": [
+    {
+      "url": "https://m3.material.io/components/all-buttons",
+      "skill": "m3-components-all-buttons",
+      "section": "tab 1",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/276f1bd7-d048-49fd-8483-f267f2ece13d.json",
+      "sha256": "9314e0245ee1ddb27ed96570ceef4d0f0b7411af1fb4ed27d97b3582f1507819",
+      "updated": "2026-07-17T06:58:41.575Z"
+    },
+    {
+      "url": "https://m3.material.io/components/buttons",
+      "skill": "m3-components-buttons",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/e31df68a-59d4-41dc-8743-8c48b476d4f8.json",
+      "sha256": "6b02c90c2723997a47f7a7f1179d7f0a349c9854097ceebcb77c9bdfaa27ae45",
+      "updated": "2026-07-24T06:19:49.216Z"
+    },
+    {
+      "url": "https://m3.material.io/components/buttons/overview",
+      "skill": "m3-components-buttons",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/e31df68a-59d4-41dc-8743-8c48b476d4f8.json",
+      "sha256": "6b02c90c2723997a47f7a7f1179d7f0a349c9854097ceebcb77c9bdfaa27ae45",
+      "updated": "2026-07-24T06:19:49.216Z"
+    },
+    {
+      "url": "https://m3.material.io/components/buttons/specs",
+      "skill": "m3-components-buttons",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/e31df68a-59d4-41dc-8743-8c48b476d4f8.json",
+      "sha256": "6b02c90c2723997a47f7a7f1179d7f0a349c9854097ceebcb77c9bdfaa27ae45",
+      "updated": "2026-07-24T06:19:49.216Z"
+    },
+    {
+      "url": "https://m3.material.io/components/buttons/guidelines",
+      "skill": "m3-components-buttons",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/e31df68a-59d4-41dc-8743-8c48b476d4f8.json",
+      "sha256": "6b02c90c2723997a47f7a7f1179d7f0a349c9854097ceebcb77c9bdfaa27ae45",
+      "updated": "2026-07-24T06:19:49.216Z"
+    },
+    {
+      "url": "https://m3.material.io/components/buttons/accessibility",
+      "skill": "m3-components-buttons",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/e31df68a-59d4-41dc-8743-8c48b476d4f8.json",
+      "sha256": "6b02c90c2723997a47f7a7f1179d7f0a349c9854097ceebcb77c9bdfaa27ae45",
+      "updated": "2026-07-24T06:19:49.216Z"
+    },
+    {
+      "url": "https://m3.material.io/components/button-groups",
+      "skill": "m3-components-button-groups",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/93a2bf4e-18ac-49a4-8560-8d2a7dffc678.json",
+      "sha256": "a668074168d8641c930fd14819f609e9a27664c9d30e0d2c0c0cf8ac3e1fdac0",
+      "updated": "2026-09-16T18:25:16.117Z"
+    },
+    {
+      "url": "https://m3.material.io/components/button-groups/overview",
+      "skill": "m3-components-button-groups",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/93a2bf4e-18ac-49a4-8560-8d2a7dffc678.json",
+      "sha256": "a668074168d8641c930fd14819f609e9a27664c9d30e0d2c0c0cf8ac3e1fdac0",
+      "updated": "2026-09-16T18:25:16.117Z"
+    },
+    {
+      "url": "https://m3.material.io/components/button-groups/specs",
+      "skill": "m3-components-button-groups",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/93a2bf4e-18ac-49a4-8560-8d2a7dffc678.json",
+      "sha256": "a668074168d8641c930fd14819f609e9a27664c9d30e0d2c0c0cf8ac3e1fdac0",
+      "updated": "2026-09-16T18:25:16.117Z"
+    },
+    {
+      "url": "https://m3.material.io/components/button-groups/guidelines",
+      "skill": "m3-components-button-groups",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/93a2bf4e-18ac-49a4-8560-8d2a7dffc678.json",
+      "sha256": "a668074168d8641c930fd14819f609e9a27664c9d30e0d2c0c0cf8ac3e1fdac0",
+      "updated": "2026-09-16T18:25:16.117Z"
+    },
+    {
+      "url": "https://m3.material.io/components/button-groups/accessibility",
+      "skill": "m3-components-button-groups",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/93a2bf4e-18ac-49a4-8560-8d2a7dffc678.json",
+      "sha256": "a668074168d8641c930fd14819f609e9a27664c9d30e0d2c0c0cf8ac3e1fdac0",
+      "updated": "2026-09-16T18:25:16.117Z"
+    },
+    {
+      "url": "https://m3.material.io/components/extended-fab",
+      "skill": "m3-components-extended-fab",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/94487cf5-eb79-43b1-b6b1-470512cfcc88.json",
+      "sha256": "802fde18c11adc1795748e7a6ccfcd55ef43a521edd273045d182a72f9604bde",
+      "updated": "2026-07-27T13:55:35.429Z"
+    },
+    {
+      "url": "https://m3.material.io/components/extended-fab/overview",
+      "skill": "m3-components-extended-fab",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/94487cf5-eb79-43b1-b6b1-470512cfcc88.json",
+      "sha256": "802fde18c11adc1795748e7a6ccfcd55ef43a521edd273045d182a72f9604bde",
+      "updated": "2026-07-27T13:55:35.429Z"
+    },
+    {
+      "url": "https://m3.material.io/components/extended-fab/specs",
+      "skill": "m3-components-extended-fab",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/94487cf5-eb79-43b1-b6b1-470512cfcc88.json",
+      "sha256": "802fde18c11adc1795748e7a6ccfcd55ef43a521edd273045d182a72f9604bde",
+      "updated": "2026-07-27T13:55:35.429Z"
+    },
+    {
+      "url": "https://m3.material.io/components/extended-fab/guidelines",
+      "skill": "m3-components-extended-fab",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/94487cf5-eb79-43b1-b6b1-470512cfcc88.json",
+      "sha256": "802fde18c11adc1795748e7a6ccfcd55ef43a521edd273045d182a72f9604bde",
+      "updated": "2026-07-27T13:55:35.429Z"
+    },
+    {
+      "url": "https://m3.material.io/components/extended-fab/accessibility",
+      "skill": "m3-components-extended-fab",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/94487cf5-eb79-43b1-b6b1-470512cfcc88.json",
+      "sha256": "802fde18c11adc1795748e7a6ccfcd55ef43a521edd273045d182a72f9604bde",
+      "updated": "2026-07-27T13:55:35.429Z"
+    },
+    {
+      "url": "https://m3.material.io/components/floating-action-button",
+      "skill": "m3-components-floating-action-button",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1e52f150-575c-45fa-8f5f-75868c5ab068.json",
+      "sha256": "0b3c5350eb534ab2a206543531e423ee1aad4c01ab2e0daf28c8798f5ce2cbd7",
+      "updated": "2026-07-27T13:59:42.096Z"
+    },
+    {
+      "url": "https://m3.material.io/components/floating-action-button/overview",
+      "skill": "m3-components-floating-action-button",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1e52f150-575c-45fa-8f5f-75868c5ab068.json",
+      "sha256": "0b3c5350eb534ab2a206543531e423ee1aad4c01ab2e0daf28c8798f5ce2cbd7",
+      "updated": "2026-07-27T13:59:42.096Z"
+    },
+    {
+      "url": "https://m3.material.io/components/floating-action-button/specs",
+      "skill": "m3-components-floating-action-button",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1e52f150-575c-45fa-8f5f-75868c5ab068.json",
+      "sha256": "0b3c5350eb534ab2a206543531e423ee1aad4c01ab2e0daf28c8798f5ce2cbd7",
+      "updated": "2026-07-27T13:59:42.096Z"
+    },
+    {
+      "url": "https://m3.material.io/components/floating-action-button/guidelines",
+      "skill": "m3-components-floating-action-button",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1e52f150-575c-45fa-8f5f-75868c5ab068.json",
+      "sha256": "0b3c5350eb534ab2a206543531e423ee1aad4c01ab2e0daf28c8798f5ce2cbd7",
+      "updated": "2026-07-27T13:59:42.096Z"
+    },
+    {
+      "url": "https://m3.material.io/components/floating-action-button/accessibility",
+      "skill": "m3-components-floating-action-button",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1e52f150-575c-45fa-8f5f-75868c5ab068.json",
+      "sha256": "0b3c5350eb534ab2a206543531e423ee1aad4c01ab2e0daf28c8798f5ce2cbd7",
+      "updated": "2026-07-27T13:59:42.096Z"
+    },
+    {
+      "url": "https://m3.material.io/components/fab-menu",
+      "skill": "m3-components-fab-menu",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f00af5db-3477-49da-bae5-44b90b3dd7ba.json",
+      "sha256": "ba12e029744ef9e056abfba0928abee571ac9d53a3eb376509c5ee3f77f45d67",
+      "updated": "2026-07-17T06:58:41.835Z"
+    },
+    {
+      "url": "https://m3.material.io/components/fab-menu/overview",
+      "skill": "m3-components-fab-menu",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f00af5db-3477-49da-bae5-44b90b3dd7ba.json",
+      "sha256": "ba12e029744ef9e056abfba0928abee571ac9d53a3eb376509c5ee3f77f45d67",
+      "updated": "2026-07-17T06:58:41.835Z"
+    },
+    {
+      "url": "https://m3.material.io/components/fab-menu/specs",
+      "skill": "m3-components-fab-menu",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f00af5db-3477-49da-bae5-44b90b3dd7ba.json",
+      "sha256": "ba12e029744ef9e056abfba0928abee571ac9d53a3eb376509c5ee3f77f45d67",
+      "updated": "2026-07-17T06:58:41.835Z"
+    },
+    {
+      "url": "https://m3.material.io/components/fab-menu/guidelines",
+      "skill": "m3-components-fab-menu",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f00af5db-3477-49da-bae5-44b90b3dd7ba.json",
+      "sha256": "ba12e029744ef9e056abfba0928abee571ac9d53a3eb376509c5ee3f77f45d67",
+      "updated": "2026-07-17T06:58:41.835Z"
+    },
+    {
+      "url": "https://m3.material.io/components/fab-menu/accessibility",
+      "skill": "m3-components-fab-menu",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f00af5db-3477-49da-bae5-44b90b3dd7ba.json",
+      "sha256": "ba12e029744ef9e056abfba0928abee571ac9d53a3eb376509c5ee3f77f45d67",
+      "updated": "2026-07-17T06:58:41.835Z"
+    },
+    {
+      "url": "https://m3.material.io/components/icon-buttons",
+      "skill": "m3-components-icon-buttons",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/71391cd0-92f8-4a8e-a625-828f5413a221.json",
+      "sha256": "8acda9b99c7e1f867b10ddd92830fc3da9744fb81a564957737b15944ff3dd0f",
+      "updated": "2026-07-17T07:05:22.141Z"
+    },
+    {
+      "url": "https://m3.material.io/components/icon-buttons/overview",
+      "skill": "m3-components-icon-buttons",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/71391cd0-92f8-4a8e-a625-828f5413a221.json",
+      "sha256": "8acda9b99c7e1f867b10ddd92830fc3da9744fb81a564957737b15944ff3dd0f",
+      "updated": "2026-07-17T07:05:22.141Z"
+    },
+    {
+      "url": "https://m3.material.io/components/icon-buttons/specs",
+      "skill": "m3-components-icon-buttons",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/71391cd0-92f8-4a8e-a625-828f5413a221.json",
+      "sha256": "8acda9b99c7e1f867b10ddd92830fc3da9744fb81a564957737b15944ff3dd0f",
+      "updated": "2026-07-17T07:05:22.141Z"
+    },
+    {
+      "url": "https://m3.material.io/components/icon-buttons/guidelines",
+      "skill": "m3-components-icon-buttons",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/71391cd0-92f8-4a8e-a625-828f5413a221.json",
+      "sha256": "8acda9b99c7e1f867b10ddd92830fc3da9744fb81a564957737b15944ff3dd0f",
+      "updated": "2026-07-17T07:05:22.141Z"
+    },
+    {
+      "url": "https://m3.material.io/components/icon-buttons/accessibility",
+      "skill": "m3-components-icon-buttons",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/71391cd0-92f8-4a8e-a625-828f5413a221.json",
+      "sha256": "8acda9b99c7e1f867b10ddd92830fc3da9744fb81a564957737b15944ff3dd0f",
+      "updated": "2026-07-17T07:05:22.141Z"
+    },
+    {
+      "url": "https://m3.material.io/components/segmented-buttons",
+      "skill": "m3-components-segmented-buttons",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/409b50be-403a-4846-932c-706a9b2137dd.json",
+      "sha256": "75ca856eb0bdeeae383ea47c9bda9936047ccad1ce96d7a789a703391aab709b",
+      "updated": "2026-09-16T18:18:17.328Z"
+    },
+    {
+      "url": "https://m3.material.io/components/segmented-buttons/overview",
+      "skill": "m3-components-segmented-buttons",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/409b50be-403a-4846-932c-706a9b2137dd.json",
+      "sha256": "75ca856eb0bdeeae383ea47c9bda9936047ccad1ce96d7a789a703391aab709b",
+      "updated": "2026-09-16T18:18:17.328Z"
+    },
+    {
+      "url": "https://m3.material.io/components/segmented-buttons/specs",
+      "skill": "m3-components-segmented-buttons",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/409b50be-403a-4846-932c-706a9b2137dd.json",
+      "sha256": "75ca856eb0bdeeae383ea47c9bda9936047ccad1ce96d7a789a703391aab709b",
+      "updated": "2026-09-16T18:18:17.328Z"
+    },
+    {
+      "url": "https://m3.material.io/components/segmented-buttons/guidelines",
+      "skill": "m3-components-segmented-buttons",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/409b50be-403a-4846-932c-706a9b2137dd.json",
+      "sha256": "75ca856eb0bdeeae383ea47c9bda9936047ccad1ce96d7a789a703391aab709b",
+      "updated": "2026-09-16T18:18:17.328Z"
+    },
+    {
+      "url": "https://m3.material.io/components/segmented-buttons/accessibility",
+      "skill": "m3-components-segmented-buttons",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/409b50be-403a-4846-932c-706a9b2137dd.json",
+      "sha256": "75ca856eb0bdeeae383ea47c9bda9936047ccad1ce96d7a789a703391aab709b",
+      "updated": "2026-09-16T18:18:17.328Z"
+    },
+    {
+      "url": "https://m3.material.io/components/split-button",
+      "skill": "m3-components-split-button",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1341051a-3131-40d4-abbf-69e37b307651.json",
+      "sha256": "541be68c6231dd788eec69c6c187bb294e0ff01e144596b183243e22ff2a4b60",
+      "updated": "2026-09-08T09:29:46.314Z"
+    },
+    {
+      "url": "https://m3.material.io/components/app-bars",
+      "skill": "m3-components-app-bars",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4135ef28-314c-44dc-b829-6e94a36b69f2.json",
+      "sha256": "5223064ffc5a199585a0dc080687e8cfd2040e7ff1beb3d129ad2c1fa880398b",
+      "updated": "2026-07-24T06:22:06.561Z"
+    },
+    {
+      "url": "https://m3.material.io/components/app-bars/overview",
+      "skill": "m3-components-app-bars",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4135ef28-314c-44dc-b829-6e94a36b69f2.json",
+      "sha256": "5223064ffc5a199585a0dc080687e8cfd2040e7ff1beb3d129ad2c1fa880398b",
+      "updated": "2026-07-24T06:22:06.561Z"
+    },
+    {
+      "url": "https://m3.material.io/components/app-bars/specs",
+      "skill": "m3-components-app-bars",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4135ef28-314c-44dc-b829-6e94a36b69f2.json",
+      "sha256": "5223064ffc5a199585a0dc080687e8cfd2040e7ff1beb3d129ad2c1fa880398b",
+      "updated": "2026-07-24T06:22:06.561Z"
+    },
+    {
+      "url": "https://m3.material.io/components/app-bars/guidelines",
+      "skill": "m3-components-app-bars",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4135ef28-314c-44dc-b829-6e94a36b69f2.json",
+      "sha256": "5223064ffc5a199585a0dc080687e8cfd2040e7ff1beb3d129ad2c1fa880398b",
+      "updated": "2026-07-24T06:22:06.561Z"
+    },
+    {
+      "url": "https://m3.material.io/components/app-bars/accessibility",
+      "skill": "m3-components-app-bars",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4135ef28-314c-44dc-b829-6e94a36b69f2.json",
+      "sha256": "5223064ffc5a199585a0dc080687e8cfd2040e7ff1beb3d129ad2c1fa880398b",
+      "updated": "2026-07-24T06:22:06.561Z"
+    },
+    {
+      "url": "https://m3.material.io/components/badges",
+      "skill": "m3-components-badges",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/e18a73ff-b00d-46e7-af20-ab9dd24bf579.json",
+      "sha256": "b7f1fed68c6f06e75cf4b43de274d114dc334f9be84e0e5385d4836484d6ff9a",
+      "updated": "2026-07-17T06:58:42.753Z"
+    },
+    {
+      "url": "https://m3.material.io/components/badges/overview",
+      "skill": "m3-components-badges",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/e18a73ff-b00d-46e7-af20-ab9dd24bf579.json",
+      "sha256": "b7f1fed68c6f06e75cf4b43de274d114dc334f9be84e0e5385d4836484d6ff9a",
+      "updated": "2026-07-17T06:58:42.753Z"
+    },
+    {
+      "url": "https://m3.material.io/components/badges/specs",
+      "skill": "m3-components-badges",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/e18a73ff-b00d-46e7-af20-ab9dd24bf579.json",
+      "sha256": "b7f1fed68c6f06e75cf4b43de274d114dc334f9be84e0e5385d4836484d6ff9a",
+      "updated": "2026-07-17T06:58:42.753Z"
+    },
+    {
+      "url": "https://m3.material.io/components/badges/guidelines",
+      "skill": "m3-components-badges",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/e18a73ff-b00d-46e7-af20-ab9dd24bf579.json",
+      "sha256": "b7f1fed68c6f06e75cf4b43de274d114dc334f9be84e0e5385d4836484d6ff9a",
+      "updated": "2026-07-17T06:58:42.753Z"
+    },
+    {
+      "url": "https://m3.material.io/components/badges/accessibility",
+      "skill": "m3-components-badges",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/e18a73ff-b00d-46e7-af20-ab9dd24bf579.json",
+      "sha256": "b7f1fed68c6f06e75cf4b43de274d114dc334f9be84e0e5385d4836484d6ff9a",
+      "updated": "2026-07-17T06:58:42.753Z"
+    },
+    {
+      "url": "https://m3.material.io/components/cards",
+      "skill": "m3-components-cards",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1a23fbe7-0474-444c-abfb-717bb148d3a8.json",
+      "sha256": "6f27698530fe1462f96a204d76f56c187d393a6e13c83a112718ef98e960461b",
+      "updated": "2026-07-24T06:14:10.548Z"
+    },
+    {
+      "url": "https://m3.material.io/components/cards/overview",
+      "skill": "m3-components-cards",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1a23fbe7-0474-444c-abfb-717bb148d3a8.json",
+      "sha256": "6f27698530fe1462f96a204d76f56c187d393a6e13c83a112718ef98e960461b",
+      "updated": "2026-07-24T06:14:10.548Z"
+    },
+    {
+      "url": "https://m3.material.io/components/cards/specs",
+      "skill": "m3-components-cards",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1a23fbe7-0474-444c-abfb-717bb148d3a8.json",
+      "sha256": "6f27698530fe1462f96a204d76f56c187d393a6e13c83a112718ef98e960461b",
+      "updated": "2026-07-24T06:14:10.548Z"
+    },
+    {
+      "url": "https://m3.material.io/components/cards/guidelines",
+      "skill": "m3-components-cards",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1a23fbe7-0474-444c-abfb-717bb148d3a8.json",
+      "sha256": "6f27698530fe1462f96a204d76f56c187d393a6e13c83a112718ef98e960461b",
+      "updated": "2026-07-24T06:14:10.548Z"
+    },
+    {
+      "url": "https://m3.material.io/components/cards/accessibility",
+      "skill": "m3-components-cards",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1a23fbe7-0474-444c-abfb-717bb148d3a8.json",
+      "sha256": "6f27698530fe1462f96a204d76f56c187d393a6e13c83a112718ef98e960461b",
+      "updated": "2026-07-24T06:14:10.548Z"
+    },
+    {
+      "url": "https://m3.material.io/components/carousel",
+      "skill": "m3-components-carousel",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/b0726223-2639-4157-84ae-cb84c07ee2e5.json",
+      "sha256": "58c8e59e88ffb80ba2203ec169bf5eda995dd139c9377671063a1c03b668a9aa",
+      "updated": "2026-08-18T17:48:11.944Z"
+    },
+    {
+      "url": "https://m3.material.io/components/carousel/overview",
+      "skill": "m3-components-carousel",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/b0726223-2639-4157-84ae-cb84c07ee2e5.json",
+      "sha256": "58c8e59e88ffb80ba2203ec169bf5eda995dd139c9377671063a1c03b668a9aa",
+      "updated": "2026-08-18T17:48:11.944Z"
+    },
+    {
+      "url": "https://m3.material.io/components/carousel/specs",
+      "skill": "m3-components-carousel",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/b0726223-2639-4157-84ae-cb84c07ee2e5.json",
+      "sha256": "58c8e59e88ffb80ba2203ec169bf5eda995dd139c9377671063a1c03b668a9aa",
+      "updated": "2026-08-18T17:48:11.944Z"
+    },
+    {
+      "url": "https://m3.material.io/components/carousel/guidelines",
+      "skill": "m3-components-carousel",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/b0726223-2639-4157-84ae-cb84c07ee2e5.json",
+      "sha256": "58c8e59e88ffb80ba2203ec169bf5eda995dd139c9377671063a1c03b668a9aa",
+      "updated": "2026-08-18T17:48:11.944Z"
+    },
+    {
+      "url": "https://m3.material.io/components/carousel/accessibility",
+      "skill": "m3-components-carousel",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/b0726223-2639-4157-84ae-cb84c07ee2e5.json",
+      "sha256": "58c8e59e88ffb80ba2203ec169bf5eda995dd139c9377671063a1c03b668a9aa",
+      "updated": "2026-08-18T17:48:11.944Z"
+    },
+    {
+      "url": "https://m3.material.io/components/checkbox",
+      "skill": "m3-components-checkbox",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/c0332583-8417-4b80-a0a1-e283781d31c6.json",
+      "sha256": "4454d98ad08ed983f3e2ea44a00776a77910aa4df0dcbfdff93c346c39b95b35",
+      "updated": "2026-08-12T09:53:04.800Z"
+    },
+    {
+      "url": "https://m3.material.io/components/checkbox/overview",
+      "skill": "m3-components-checkbox",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/c0332583-8417-4b80-a0a1-e283781d31c6.json",
+      "sha256": "4454d98ad08ed983f3e2ea44a00776a77910aa4df0dcbfdff93c346c39b95b35",
+      "updated": "2026-08-12T09:53:04.800Z"
+    },
+    {
+      "url": "https://m3.material.io/components/checkbox/specs",
+      "skill": "m3-components-checkbox",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/c0332583-8417-4b80-a0a1-e283781d31c6.json",
+      "sha256": "4454d98ad08ed983f3e2ea44a00776a77910aa4df0dcbfdff93c346c39b95b35",
+      "updated": "2026-08-12T09:53:04.800Z"
+    },
+    {
+      "url": "https://m3.material.io/components/checkbox/guidelines",
+      "skill": "m3-components-checkbox",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/c0332583-8417-4b80-a0a1-e283781d31c6.json",
+      "sha256": "4454d98ad08ed983f3e2ea44a00776a77910aa4df0dcbfdff93c346c39b95b35",
+      "updated": "2026-08-12T09:53:04.800Z"
+    },
+    {
+      "url": "https://m3.material.io/components/checkbox/accessibility",
+      "skill": "m3-components-checkbox",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/c0332583-8417-4b80-a0a1-e283781d31c6.json",
+      "sha256": "4454d98ad08ed983f3e2ea44a00776a77910aa4df0dcbfdff93c346c39b95b35",
+      "updated": "2026-08-12T09:53:04.800Z"
+    },
+    {
+      "url": "https://m3.material.io/components/chips",
+      "skill": "m3-components-chips",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/592d28d0-0c82-4642-a203-556b1e0581b0.json",
+      "sha256": "bd83cd0e90b974fba0ec5718e92520a70bc59c10af5ef5cee87d7d0dde979aa0",
+      "updated": "2026-07-17T07:05:14.328Z"
+    },
+    {
+      "url": "https://m3.material.io/components/chips/overview",
+      "skill": "m3-components-chips",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/592d28d0-0c82-4642-a203-556b1e0581b0.json",
+      "sha256": "bd83cd0e90b974fba0ec5718e92520a70bc59c10af5ef5cee87d7d0dde979aa0",
+      "updated": "2026-07-17T07:05:14.328Z"
+    },
+    {
+      "url": "https://m3.material.io/components/chips/specs",
+      "skill": "m3-components-chips",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/592d28d0-0c82-4642-a203-556b1e0581b0.json",
+      "sha256": "bd83cd0e90b974fba0ec5718e92520a70bc59c10af5ef5cee87d7d0dde979aa0",
+      "updated": "2026-07-17T07:05:14.328Z"
+    },
+    {
+      "url": "https://m3.material.io/components/chips/guidelines",
+      "skill": "m3-components-chips",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/592d28d0-0c82-4642-a203-556b1e0581b0.json",
+      "sha256": "bd83cd0e90b974fba0ec5718e92520a70bc59c10af5ef5cee87d7d0dde979aa0",
+      "updated": "2026-07-17T07:05:14.328Z"
+    },
+    {
+      "url": "https://m3.material.io/components/chips/accessibility",
+      "skill": "m3-components-chips",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/592d28d0-0c82-4642-a203-556b1e0581b0.json",
+      "sha256": "bd83cd0e90b974fba0ec5718e92520a70bc59c10af5ef5cee87d7d0dde979aa0",
+      "updated": "2026-07-17T07:05:14.328Z"
+    },
+    {
+      "url": "https://m3.material.io/components/divider",
+      "skill": "m3-components-divider",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/843ffaa9-e73e-45a7-bff7-f198cac0a7c8.json",
+      "sha256": "6ec66d0ae25d4f3121925696e46667cfd7b124c93f7b2b3e754eb2722d593814",
+      "updated": "2026-07-17T07:13:07.955Z"
+    },
+    {
+      "url": "https://m3.material.io/components/divider/overview",
+      "skill": "m3-components-divider",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/843ffaa9-e73e-45a7-bff7-f198cac0a7c8.json",
+      "sha256": "6ec66d0ae25d4f3121925696e46667cfd7b124c93f7b2b3e754eb2722d593814",
+      "updated": "2026-07-17T07:13:07.955Z"
+    },
+    {
+      "url": "https://m3.material.io/components/divider/specs",
+      "skill": "m3-components-divider",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/843ffaa9-e73e-45a7-bff7-f198cac0a7c8.json",
+      "sha256": "6ec66d0ae25d4f3121925696e46667cfd7b124c93f7b2b3e754eb2722d593814",
+      "updated": "2026-07-17T07:13:07.955Z"
+    },
+    {
+      "url": "https://m3.material.io/components/divider/guidelines",
+      "skill": "m3-components-divider",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/843ffaa9-e73e-45a7-bff7-f198cac0a7c8.json",
+      "sha256": "6ec66d0ae25d4f3121925696e46667cfd7b124c93f7b2b3e754eb2722d593814",
+      "updated": "2026-07-17T07:13:07.955Z"
+    },
+    {
+      "url": "https://m3.material.io/components/divider/accessibility",
+      "skill": "m3-components-divider",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/843ffaa9-e73e-45a7-bff7-f198cac0a7c8.json",
+      "sha256": "6ec66d0ae25d4f3121925696e46667cfd7b124c93f7b2b3e754eb2722d593814",
+      "updated": "2026-07-17T07:13:07.955Z"
+    },
+    {
+      "url": "https://m3.material.io/components/date-pickers",
+      "skill": "m3-components-date-pickers",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/523144a0-9184-44bd-93f0-5b4c7355f421.json",
+      "sha256": "d37764e0c165890000ccf8070251d157e637ce5e753ff15cad9ee613f0de6189",
+      "updated": "2026-07-27T14:12:27.562Z"
+    },
+    {
+      "url": "https://m3.material.io/components/date-pickers/overview",
+      "skill": "m3-components-date-pickers",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/523144a0-9184-44bd-93f0-5b4c7355f421.json",
+      "sha256": "d37764e0c165890000ccf8070251d157e637ce5e753ff15cad9ee613f0de6189",
+      "updated": "2026-07-27T14:12:27.562Z"
+    },
+    {
+      "url": "https://m3.material.io/components/date-pickers/specs",
+      "skill": "m3-components-date-pickers",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/523144a0-9184-44bd-93f0-5b4c7355f421.json",
+      "sha256": "d37764e0c165890000ccf8070251d157e637ce5e753ff15cad9ee613f0de6189",
+      "updated": "2026-07-27T14:12:27.562Z"
+    },
+    {
+      "url": "https://m3.material.io/components/date-pickers/guidelines",
+      "skill": "m3-components-date-pickers",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/523144a0-9184-44bd-93f0-5b4c7355f421.json",
+      "sha256": "d37764e0c165890000ccf8070251d157e637ce5e753ff15cad9ee613f0de6189",
+      "updated": "2026-07-27T14:12:27.562Z"
+    },
+    {
+      "url": "https://m3.material.io/components/date-pickers/accessibility",
+      "skill": "m3-components-date-pickers",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/523144a0-9184-44bd-93f0-5b4c7355f421.json",
+      "sha256": "d37764e0c165890000ccf8070251d157e637ce5e753ff15cad9ee613f0de6189",
+      "updated": "2026-07-27T14:12:27.562Z"
+    },
+    {
+      "url": "https://m3.material.io/components/time-pickers",
+      "skill": "m3-components-time-pickers",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/ec8e6da4-b726-403d-bab7-3fb660b6ef86.json",
+      "sha256": "9961056e6d1fbaf88e8b944bad84a45d552535f6ba2ff5c901d6d1066bc76a23",
+      "updated": "2026-07-17T07:13:07.343Z"
+    },
+    {
+      "url": "https://m3.material.io/components/time-pickers/overview",
+      "skill": "m3-components-time-pickers",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/ec8e6da4-b726-403d-bab7-3fb660b6ef86.json",
+      "sha256": "9961056e6d1fbaf88e8b944bad84a45d552535f6ba2ff5c901d6d1066bc76a23",
+      "updated": "2026-07-17T07:13:07.343Z"
+    },
+    {
+      "url": "https://m3.material.io/components/time-pickers/specs",
+      "skill": "m3-components-time-pickers",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/ec8e6da4-b726-403d-bab7-3fb660b6ef86.json",
+      "sha256": "9961056e6d1fbaf88e8b944bad84a45d552535f6ba2ff5c901d6d1066bc76a23",
+      "updated": "2026-07-17T07:13:07.343Z"
+    },
+    {
+      "url": "https://m3.material.io/components/time-pickers/guidelines",
+      "skill": "m3-components-time-pickers",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/ec8e6da4-b726-403d-bab7-3fb660b6ef86.json",
+      "sha256": "9961056e6d1fbaf88e8b944bad84a45d552535f6ba2ff5c901d6d1066bc76a23",
+      "updated": "2026-07-17T07:13:07.343Z"
+    },
+    {
+      "url": "https://m3.material.io/components/time-pickers/accessibility",
+      "skill": "m3-components-time-pickers",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/ec8e6da4-b726-403d-bab7-3fb660b6ef86.json",
+      "sha256": "9961056e6d1fbaf88e8b944bad84a45d552535f6ba2ff5c901d6d1066bc76a23",
+      "updated": "2026-07-17T07:13:07.343Z"
+    },
+    {
+      "url": "https://m3.material.io/components/dialogs",
+      "skill": "m3-components-dialogs",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/79c01ab5-d09a-4f6c-9aca-f76d310583bc.json",
+      "sha256": "1c66239b409db8aecf3b8ae1479fa19346501d0c9b0c032818f1754179eaf1fa",
+      "updated": "2026-07-28T07:11:33.307Z"
+    },
+    {
+      "url": "https://m3.material.io/components/dialogs/overview",
+      "skill": "m3-components-dialogs",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/79c01ab5-d09a-4f6c-9aca-f76d310583bc.json",
+      "sha256": "1c66239b409db8aecf3b8ae1479fa19346501d0c9b0c032818f1754179eaf1fa",
+      "updated": "2026-07-28T07:11:33.307Z"
+    },
+    {
+      "url": "https://m3.material.io/components/dialogs/specs",
+      "skill": "m3-components-dialogs",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/79c01ab5-d09a-4f6c-9aca-f76d310583bc.json",
+      "sha256": "1c66239b409db8aecf3b8ae1479fa19346501d0c9b0c032818f1754179eaf1fa",
+      "updated": "2026-07-28T07:11:33.307Z"
+    },
+    {
+      "url": "https://m3.material.io/components/dialogs/guidelines",
+      "skill": "m3-components-dialogs",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/79c01ab5-d09a-4f6c-9aca-f76d310583bc.json",
+      "sha256": "1c66239b409db8aecf3b8ae1479fa19346501d0c9b0c032818f1754179eaf1fa",
+      "updated": "2026-07-28T07:11:33.307Z"
+    },
+    {
+      "url": "https://m3.material.io/components/dialogs/accessibility",
+      "skill": "m3-components-dialogs",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/79c01ab5-d09a-4f6c-9aca-f76d310583bc.json",
+      "sha256": "1c66239b409db8aecf3b8ae1479fa19346501d0c9b0c032818f1754179eaf1fa",
+      "updated": "2026-07-28T07:11:33.307Z"
+    },
+    {
+      "url": "https://m3.material.io/components/loading-indicator",
+      "skill": "m3-components-loading-indicator",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/eb6cf431-55ab-4d41-b3c5-cf4da1bae66f.json",
+      "sha256": "df0e0414f8f2c443b0fd338717560e76ce7f2d7bc8584453f32711b33abf9f1f",
+      "updated": "2026-07-29T13:35:08.589Z"
+    },
+    {
+      "url": "https://m3.material.io/components/loading-indicator/overview",
+      "skill": "m3-components-loading-indicator",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/eb6cf431-55ab-4d41-b3c5-cf4da1bae66f.json",
+      "sha256": "df0e0414f8f2c443b0fd338717560e76ce7f2d7bc8584453f32711b33abf9f1f",
+      "updated": "2026-07-29T13:35:08.589Z"
+    },
+    {
+      "url": "https://m3.material.io/components/loading-indicator/specs",
+      "skill": "m3-components-loading-indicator",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/eb6cf431-55ab-4d41-b3c5-cf4da1bae66f.json",
+      "sha256": "df0e0414f8f2c443b0fd338717560e76ce7f2d7bc8584453f32711b33abf9f1f",
+      "updated": "2026-07-29T13:35:08.589Z"
+    },
+    {
+      "url": "https://m3.material.io/components/loading-indicator/guidelines",
+      "skill": "m3-components-loading-indicator",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/eb6cf431-55ab-4d41-b3c5-cf4da1bae66f.json",
+      "sha256": "df0e0414f8f2c443b0fd338717560e76ce7f2d7bc8584453f32711b33abf9f1f",
+      "updated": "2026-07-29T13:35:08.589Z"
+    },
+    {
+      "url": "https://m3.material.io/components/loading-indicator/accessibility",
+      "skill": "m3-components-loading-indicator",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/eb6cf431-55ab-4d41-b3c5-cf4da1bae66f.json",
+      "sha256": "df0e0414f8f2c443b0fd338717560e76ce7f2d7bc8584453f32711b33abf9f1f",
+      "updated": "2026-07-29T13:35:08.589Z"
+    },
+    {
+      "url": "https://m3.material.io/components/progress-indicators",
+      "skill": "m3-components-progress-indicators",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/9a92bb46-ccc8-4752-a144-b770d47fe1dd.json",
+      "sha256": "22b1952d53ee05dc8120d2b85c0ddd68c804d4cc4a8965675958ef19fc6c2d31",
+      "updated": "2026-07-29T13:37:52.778Z"
+    },
+    {
+      "url": "https://m3.material.io/components/progress-indicators/overview",
+      "skill": "m3-components-progress-indicators",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/9a92bb46-ccc8-4752-a144-b770d47fe1dd.json",
+      "sha256": "22b1952d53ee05dc8120d2b85c0ddd68c804d4cc4a8965675958ef19fc6c2d31",
+      "updated": "2026-07-29T13:37:52.778Z"
+    },
+    {
+      "url": "https://m3.material.io/components/progress-indicators/specs",
+      "skill": "m3-components-progress-indicators",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/9a92bb46-ccc8-4752-a144-b770d47fe1dd.json",
+      "sha256": "22b1952d53ee05dc8120d2b85c0ddd68c804d4cc4a8965675958ef19fc6c2d31",
+      "updated": "2026-07-29T13:37:52.778Z"
+    },
+    {
+      "url": "https://m3.material.io/components/progress-indicators/guidelines",
+      "skill": "m3-components-progress-indicators",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/9a92bb46-ccc8-4752-a144-b770d47fe1dd.json",
+      "sha256": "22b1952d53ee05dc8120d2b85c0ddd68c804d4cc4a8965675958ef19fc6c2d31",
+      "updated": "2026-07-29T13:37:52.778Z"
+    },
+    {
+      "url": "https://m3.material.io/components/progress-indicators/accessibility",
+      "skill": "m3-components-progress-indicators",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/9a92bb46-ccc8-4752-a144-b770d47fe1dd.json",
+      "sha256": "22b1952d53ee05dc8120d2b85c0ddd68c804d4cc4a8965675958ef19fc6c2d31",
+      "updated": "2026-07-29T13:37:52.778Z"
+    },
+    {
+      "url": "https://m3.material.io/components/bottom-sheets",
+      "skill": "m3-components-bottom-sheets",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/aa6f9af2-d539-4b22-9af5-838e7cfc4a85.json",
+      "sha256": "7ef9ec582585f9f2498371eb16c71d180fea5a7ba3d3201594065e76a632864d",
+      "updated": "2026-07-28T07:45:12.661Z"
+    },
+    {
+      "url": "https://m3.material.io/components/bottom-sheets/overview",
+      "skill": "m3-components-bottom-sheets",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/aa6f9af2-d539-4b22-9af5-838e7cfc4a85.json",
+      "sha256": "7ef9ec582585f9f2498371eb16c71d180fea5a7ba3d3201594065e76a632864d",
+      "updated": "2026-07-28T07:45:12.661Z"
+    },
+    {
+      "url": "https://m3.material.io/components/bottom-sheets/specs",
+      "skill": "m3-components-bottom-sheets",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/aa6f9af2-d539-4b22-9af5-838e7cfc4a85.json",
+      "sha256": "7ef9ec582585f9f2498371eb16c71d180fea5a7ba3d3201594065e76a632864d",
+      "updated": "2026-07-28T07:45:12.661Z"
+    },
+    {
+      "url": "https://m3.material.io/components/bottom-sheets/guidelines",
+      "skill": "m3-components-bottom-sheets",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/aa6f9af2-d539-4b22-9af5-838e7cfc4a85.json",
+      "sha256": "7ef9ec582585f9f2498371eb16c71d180fea5a7ba3d3201594065e76a632864d",
+      "updated": "2026-07-28T07:45:12.661Z"
+    },
+    {
+      "url": "https://m3.material.io/components/bottom-sheets/accessibility",
+      "skill": "m3-components-bottom-sheets",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/aa6f9af2-d539-4b22-9af5-838e7cfc4a85.json",
+      "sha256": "7ef9ec582585f9f2498371eb16c71d180fea5a7ba3d3201594065e76a632864d",
+      "updated": "2026-07-28T07:45:12.661Z"
+    },
+    {
+      "url": "https://m3.material.io/components/side-sheets",
+      "skill": "m3-components-side-sheets",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/040dabe3-ed0f-4759-824d-812224e78af3.json",
+      "sha256": "205ff9a72d4850b464572af5a28882dd61bdfcd43babe90ef76e8886a4084900",
+      "updated": "2026-07-28T07:57:48.089Z"
+    },
+    {
+      "url": "https://m3.material.io/components/side-sheets/overview",
+      "skill": "m3-components-side-sheets",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/040dabe3-ed0f-4759-824d-812224e78af3.json",
+      "sha256": "205ff9a72d4850b464572af5a28882dd61bdfcd43babe90ef76e8886a4084900",
+      "updated": "2026-07-28T07:57:48.089Z"
+    },
+    {
+      "url": "https://m3.material.io/components/side-sheets/specs",
+      "skill": "m3-components-side-sheets",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/040dabe3-ed0f-4759-824d-812224e78af3.json",
+      "sha256": "205ff9a72d4850b464572af5a28882dd61bdfcd43babe90ef76e8886a4084900",
+      "updated": "2026-07-28T07:57:48.089Z"
+    },
+    {
+      "url": "https://m3.material.io/components/side-sheets/guidelines",
+      "skill": "m3-components-side-sheets",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/040dabe3-ed0f-4759-824d-812224e78af3.json",
+      "sha256": "205ff9a72d4850b464572af5a28882dd61bdfcd43babe90ef76e8886a4084900",
+      "updated": "2026-07-28T07:57:48.089Z"
+    },
+    {
+      "url": "https://m3.material.io/components/side-sheets/accessibility",
+      "skill": "m3-components-side-sheets",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/040dabe3-ed0f-4759-824d-812224e78af3.json",
+      "sha256": "205ff9a72d4850b464572af5a28882dd61bdfcd43babe90ef76e8886a4084900",
+      "updated": "2026-07-28T07:57:48.089Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-bar",
+      "skill": "m3-components-navigation-bar",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/9e4cdffa-f7fd-425f-9915-867aafbcc7d6.json",
+      "sha256": "ee38e5a0e80465e1002e9c07af068920eabf5290041c081b88a0c895e4fe7dd4",
+      "updated": "2026-07-28T07:36:27.700Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-bar/overview",
+      "skill": "m3-components-navigation-bar",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/9e4cdffa-f7fd-425f-9915-867aafbcc7d6.json",
+      "sha256": "ee38e5a0e80465e1002e9c07af068920eabf5290041c081b88a0c895e4fe7dd4",
+      "updated": "2026-07-28T07:36:27.700Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-bar/specs",
+      "skill": "m3-components-navigation-bar",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/9e4cdffa-f7fd-425f-9915-867aafbcc7d6.json",
+      "sha256": "ee38e5a0e80465e1002e9c07af068920eabf5290041c081b88a0c895e4fe7dd4",
+      "updated": "2026-07-28T07:36:27.700Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-bar/guidelines",
+      "skill": "m3-components-navigation-bar",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/9e4cdffa-f7fd-425f-9915-867aafbcc7d6.json",
+      "sha256": "ee38e5a0e80465e1002e9c07af068920eabf5290041c081b88a0c895e4fe7dd4",
+      "updated": "2026-07-28T07:36:27.700Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-bar/accessibility",
+      "skill": "m3-components-navigation-bar",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/9e4cdffa-f7fd-425f-9915-867aafbcc7d6.json",
+      "sha256": "ee38e5a0e80465e1002e9c07af068920eabf5290041c081b88a0c895e4fe7dd4",
+      "updated": "2026-07-28T07:36:27.700Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-drawer",
+      "skill": "m3-components-navigation-drawer",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/d2a1a290-0db4-4622-8a4b-bd11b6a4ec8d.json",
+      "sha256": "8fc9fa1737ffb48a4f18c5dadd2587c511b9668bca84aeffef5c143c327b9548",
+      "updated": "2026-07-30T05:22:52.002Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-drawer/overview",
+      "skill": "m3-components-navigation-drawer",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/d2a1a290-0db4-4622-8a4b-bd11b6a4ec8d.json",
+      "sha256": "8fc9fa1737ffb48a4f18c5dadd2587c511b9668bca84aeffef5c143c327b9548",
+      "updated": "2026-07-30T05:22:52.002Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-drawer/specs",
+      "skill": "m3-components-navigation-drawer",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/d2a1a290-0db4-4622-8a4b-bd11b6a4ec8d.json",
+      "sha256": "8fc9fa1737ffb48a4f18c5dadd2587c511b9668bca84aeffef5c143c327b9548",
+      "updated": "2026-07-30T05:22:52.002Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-drawer/guidelines",
+      "skill": "m3-components-navigation-drawer",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/d2a1a290-0db4-4622-8a4b-bd11b6a4ec8d.json",
+      "sha256": "8fc9fa1737ffb48a4f18c5dadd2587c511b9668bca84aeffef5c143c327b9548",
+      "updated": "2026-07-30T05:22:52.002Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-drawer/accessibility",
+      "skill": "m3-components-navigation-drawer",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/d2a1a290-0db4-4622-8a4b-bd11b6a4ec8d.json",
+      "sha256": "8fc9fa1737ffb48a4f18c5dadd2587c511b9668bca84aeffef5c143c327b9548",
+      "updated": "2026-07-30T05:22:52.002Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-rail",
+      "skill": "m3-components-navigation-rail",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/98fe42bd-9bb1-4307-9e92-e61e57c3e9da.json",
+      "sha256": "b0e1e62eb0039690b82aed200439659d5186276f890ba7effbe97f9419a0a1c6",
+      "updated": "2026-07-24T07:30:37.949Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-rail/overview",
+      "skill": "m3-components-navigation-rail",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/98fe42bd-9bb1-4307-9e92-e61e57c3e9da.json",
+      "sha256": "b0e1e62eb0039690b82aed200439659d5186276f890ba7effbe97f9419a0a1c6",
+      "updated": "2026-07-24T07:30:37.949Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-rail/specs",
+      "skill": "m3-components-navigation-rail",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/98fe42bd-9bb1-4307-9e92-e61e57c3e9da.json",
+      "sha256": "b0e1e62eb0039690b82aed200439659d5186276f890ba7effbe97f9419a0a1c6",
+      "updated": "2026-07-24T07:30:37.949Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-rail/guidelines",
+      "skill": "m3-components-navigation-rail",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/98fe42bd-9bb1-4307-9e92-e61e57c3e9da.json",
+      "sha256": "b0e1e62eb0039690b82aed200439659d5186276f890ba7effbe97f9419a0a1c6",
+      "updated": "2026-07-24T07:30:37.949Z"
+    },
+    {
+      "url": "https://m3.material.io/components/navigation-rail/accessibility",
+      "skill": "m3-components-navigation-rail",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/98fe42bd-9bb1-4307-9e92-e61e57c3e9da.json",
+      "sha256": "b0e1e62eb0039690b82aed200439659d5186276f890ba7effbe97f9419a0a1c6",
+      "updated": "2026-07-24T07:30:37.949Z"
+    },
+    {
+      "url": "https://m3.material.io/components/radio-button",
+      "skill": "m3-components-radio-button",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/091d4b7c-1ab2-4050-963a-4e2558ee5d08.json",
+      "sha256": "a1165e4afb06da4701fe2aa6012e0087803b988d998e65bcd340881f3c14ca50",
+      "updated": "2026-07-17T07:17:47.331Z"
+    },
+    {
+      "url": "https://m3.material.io/components/radio-button/overview",
+      "skill": "m3-components-radio-button",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/091d4b7c-1ab2-4050-963a-4e2558ee5d08.json",
+      "sha256": "a1165e4afb06da4701fe2aa6012e0087803b988d998e65bcd340881f3c14ca50",
+      "updated": "2026-07-17T07:17:47.331Z"
+    },
+    {
+      "url": "https://m3.material.io/components/radio-button/specs",
+      "skill": "m3-components-radio-button",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/091d4b7c-1ab2-4050-963a-4e2558ee5d08.json",
+      "sha256": "a1165e4afb06da4701fe2aa6012e0087803b988d998e65bcd340881f3c14ca50",
+      "updated": "2026-07-17T07:17:47.331Z"
+    },
+    {
+      "url": "https://m3.material.io/components/radio-button/guidelines",
+      "skill": "m3-components-radio-button",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/091d4b7c-1ab2-4050-963a-4e2558ee5d08.json",
+      "sha256": "a1165e4afb06da4701fe2aa6012e0087803b988d998e65bcd340881f3c14ca50",
+      "updated": "2026-07-17T07:17:47.331Z"
+    },
+    {
+      "url": "https://m3.material.io/components/radio-button/accessibility",
+      "skill": "m3-components-radio-button",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/091d4b7c-1ab2-4050-963a-4e2558ee5d08.json",
+      "sha256": "a1165e4afb06da4701fe2aa6012e0087803b988d998e65bcd340881f3c14ca50",
+      "updated": "2026-07-17T07:17:47.331Z"
+    },
+    {
+      "url": "https://m3.material.io/components/switch",
+      "skill": "m3-components-switch",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/a4ad43f1-5c39-44b2-ae15-a7110bdf4fa6.json",
+      "sha256": "2411b942e3e457ec4ace572bbc1c2037326b7b0ee7287285d00ecd1b3e04129e",
+      "updated": "2026-07-17T07:03:01.922Z"
+    },
+    {
+      "url": "https://m3.material.io/components/switch/overview",
+      "skill": "m3-components-switch",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/a4ad43f1-5c39-44b2-ae15-a7110bdf4fa6.json",
+      "sha256": "2411b942e3e457ec4ace572bbc1c2037326b7b0ee7287285d00ecd1b3e04129e",
+      "updated": "2026-07-17T07:03:01.922Z"
+    },
+    {
+      "url": "https://m3.material.io/components/switch/specs",
+      "skill": "m3-components-switch",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/a4ad43f1-5c39-44b2-ae15-a7110bdf4fa6.json",
+      "sha256": "2411b942e3e457ec4ace572bbc1c2037326b7b0ee7287285d00ecd1b3e04129e",
+      "updated": "2026-07-17T07:03:01.922Z"
+    },
+    {
+      "url": "https://m3.material.io/components/switch/guidelines",
+      "skill": "m3-components-switch",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/a4ad43f1-5c39-44b2-ae15-a7110bdf4fa6.json",
+      "sha256": "2411b942e3e457ec4ace572bbc1c2037326b7b0ee7287285d00ecd1b3e04129e",
+      "updated": "2026-07-17T07:03:01.922Z"
+    },
+    {
+      "url": "https://m3.material.io/components/switch/accessibility",
+      "skill": "m3-components-switch",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/a4ad43f1-5c39-44b2-ae15-a7110bdf4fa6.json",
+      "sha256": "2411b942e3e457ec4ace572bbc1c2037326b7b0ee7287285d00ecd1b3e04129e",
+      "updated": "2026-07-17T07:03:01.922Z"
+    },
+    {
+      "url": "https://m3.material.io/components/lists",
+      "skill": "m3-components-lists",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/6d4033c2-f92c-4c43-b585-b3bce8468d48.json",
+      "sha256": "33d57c7e40557fae77b49a2428fe079c13b823b2b60d8a8dc654605cc2c9b9fd",
+      "updated": "2026-08-06T17:09:16.197Z"
+    },
+    {
+      "url": "https://m3.material.io/components/lists/overview",
+      "skill": "m3-components-lists",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/6d4033c2-f92c-4c43-b585-b3bce8468d48.json",
+      "sha256": "33d57c7e40557fae77b49a2428fe079c13b823b2b60d8a8dc654605cc2c9b9fd",
+      "updated": "2026-08-06T17:09:16.197Z"
+    },
+    {
+      "url": "https://m3.material.io/components/lists/specs",
+      "skill": "m3-components-lists",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/6d4033c2-f92c-4c43-b585-b3bce8468d48.json",
+      "sha256": "33d57c7e40557fae77b49a2428fe079c13b823b2b60d8a8dc654605cc2c9b9fd",
+      "updated": "2026-08-06T17:09:16.197Z"
+    },
+    {
+      "url": "https://m3.material.io/components/lists/guidelines",
+      "skill": "m3-components-lists",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/6d4033c2-f92c-4c43-b585-b3bce8468d48.json",
+      "sha256": "33d57c7e40557fae77b49a2428fe079c13b823b2b60d8a8dc654605cc2c9b9fd",
+      "updated": "2026-08-06T17:09:16.197Z"
+    },
+    {
+      "url": "https://m3.material.io/components/lists/accessibility",
+      "skill": "m3-components-lists",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/6d4033c2-f92c-4c43-b585-b3bce8468d48.json",
+      "sha256": "33d57c7e40557fae77b49a2428fe079c13b823b2b60d8a8dc654605cc2c9b9fd",
+      "updated": "2026-08-06T17:09:16.197Z"
+    },
+    {
+      "url": "https://m3.material.io/components/menus",
+      "skill": "m3-components-menus",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/24b60c3f-1ec7-48df-b175-0d8e011a8106.json",
+      "sha256": "3993f30923939fa62c5086ab0d7bb7c01bf5e244d24ddad885f38b8ee61bc50a",
+      "updated": "2026-07-28T07:32:19.493Z"
+    },
+    {
+      "url": "https://m3.material.io/components/menus/overview",
+      "skill": "m3-components-menus",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/24b60c3f-1ec7-48df-b175-0d8e011a8106.json",
+      "sha256": "3993f30923939fa62c5086ab0d7bb7c01bf5e244d24ddad885f38b8ee61bc50a",
+      "updated": "2026-07-28T07:32:19.493Z"
+    },
+    {
+      "url": "https://m3.material.io/components/menus/specs",
+      "skill": "m3-components-menus",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/24b60c3f-1ec7-48df-b175-0d8e011a8106.json",
+      "sha256": "3993f30923939fa62c5086ab0d7bb7c01bf5e244d24ddad885f38b8ee61bc50a",
+      "updated": "2026-07-28T07:32:19.493Z"
+    },
+    {
+      "url": "https://m3.material.io/components/menus/guidelines",
+      "skill": "m3-components-menus",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/24b60c3f-1ec7-48df-b175-0d8e011a8106.json",
+      "sha256": "3993f30923939fa62c5086ab0d7bb7c01bf5e244d24ddad885f38b8ee61bc50a",
+      "updated": "2026-07-28T07:32:19.493Z"
+    },
+    {
+      "url": "https://m3.material.io/components/menus/accessibility",
+      "skill": "m3-components-menus",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/24b60c3f-1ec7-48df-b175-0d8e011a8106.json",
+      "sha256": "3993f30923939fa62c5086ab0d7bb7c01bf5e244d24ddad885f38b8ee61bc50a",
+      "updated": "2026-07-28T07:32:19.493Z"
+    },
+    {
+      "url": "https://m3.material.io/components/search",
+      "skill": "m3-components-search",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/22081e54-b56a-47b2-b137-9ba82953f05e.json",
+      "sha256": "6c0768618e9595e43db8ef24ae0a76ae1d21be55cd009b0acf59cb2e5092cc25",
+      "updated": "2026-07-27T04:04:05.736Z"
+    },
+    {
+      "url": "https://m3.material.io/components/search/overview",
+      "skill": "m3-components-search",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/22081e54-b56a-47b2-b137-9ba82953f05e.json",
+      "sha256": "6c0768618e9595e43db8ef24ae0a76ae1d21be55cd009b0acf59cb2e5092cc25",
+      "updated": "2026-07-27T04:04:05.736Z"
+    },
+    {
+      "url": "https://m3.material.io/components/search/specs",
+      "skill": "m3-components-search",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/22081e54-b56a-47b2-b137-9ba82953f05e.json",
+      "sha256": "6c0768618e9595e43db8ef24ae0a76ae1d21be55cd009b0acf59cb2e5092cc25",
+      "updated": "2026-07-27T04:04:05.736Z"
+    },
+    {
+      "url": "https://m3.material.io/components/search/guidelines",
+      "skill": "m3-components-search",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/22081e54-b56a-47b2-b137-9ba82953f05e.json",
+      "sha256": "6c0768618e9595e43db8ef24ae0a76ae1d21be55cd009b0acf59cb2e5092cc25",
+      "updated": "2026-07-27T04:04:05.736Z"
+    },
+    {
+      "url": "https://m3.material.io/components/search/accessibility",
+      "skill": "m3-components-search",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/22081e54-b56a-47b2-b137-9ba82953f05e.json",
+      "sha256": "6c0768618e9595e43db8ef24ae0a76ae1d21be55cd009b0acf59cb2e5092cc25",
+      "updated": "2026-07-27T04:04:05.736Z"
+    },
+    {
+      "url": "https://m3.material.io/components/sliders",
+      "skill": "m3-components-sliders",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4d160e88-c954-4614-8d11-4ec3ed399c92.json",
+      "sha256": "a927b398615289dd16de308cd8659e7058e723d1a20340fde2c07284158b6c7c",
+      "updated": "2026-07-17T07:13:18.037Z"
+    },
+    {
+      "url": "https://m3.material.io/components/sliders/overview",
+      "skill": "m3-components-sliders",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4d160e88-c954-4614-8d11-4ec3ed399c92.json",
+      "sha256": "a927b398615289dd16de308cd8659e7058e723d1a20340fde2c07284158b6c7c",
+      "updated": "2026-07-17T07:13:18.037Z"
+    },
+    {
+      "url": "https://m3.material.io/components/sliders/specs",
+      "skill": "m3-components-sliders",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4d160e88-c954-4614-8d11-4ec3ed399c92.json",
+      "sha256": "a927b398615289dd16de308cd8659e7058e723d1a20340fde2c07284158b6c7c",
+      "updated": "2026-07-17T07:13:18.037Z"
+    },
+    {
+      "url": "https://m3.material.io/components/sliders/guidelines",
+      "skill": "m3-components-sliders",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4d160e88-c954-4614-8d11-4ec3ed399c92.json",
+      "sha256": "a927b398615289dd16de308cd8659e7058e723d1a20340fde2c07284158b6c7c",
+      "updated": "2026-07-17T07:13:18.037Z"
+    },
+    {
+      "url": "https://m3.material.io/components/sliders/accessibility",
+      "skill": "m3-components-sliders",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4d160e88-c954-4614-8d11-4ec3ed399c92.json",
+      "sha256": "a927b398615289dd16de308cd8659e7058e723d1a20340fde2c07284158b6c7c",
+      "updated": "2026-07-17T07:13:18.037Z"
+    },
+    {
+      "url": "https://m3.material.io/components/snackbar",
+      "skill": "m3-components-snackbar",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/26cf2750-80f7-43f8-a155-834aa01276df.json",
+      "sha256": "718c275e912a07cc319da0f61d949f61ebd224fb384a069dd605356449e2dd07",
+      "updated": "2026-07-28T08:03:08.607Z"
+    },
+    {
+      "url": "https://m3.material.io/components/snackbar/overview",
+      "skill": "m3-components-snackbar",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/26cf2750-80f7-43f8-a155-834aa01276df.json",
+      "sha256": "718c275e912a07cc319da0f61d949f61ebd224fb384a069dd605356449e2dd07",
+      "updated": "2026-07-28T08:03:08.607Z"
+    },
+    {
+      "url": "https://m3.material.io/components/snackbar/specs",
+      "skill": "m3-components-snackbar",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/26cf2750-80f7-43f8-a155-834aa01276df.json",
+      "sha256": "718c275e912a07cc319da0f61d949f61ebd224fb384a069dd605356449e2dd07",
+      "updated": "2026-07-28T08:03:08.607Z"
+    },
+    {
+      "url": "https://m3.material.io/components/snackbar/guidelines",
+      "skill": "m3-components-snackbar",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/26cf2750-80f7-43f8-a155-834aa01276df.json",
+      "sha256": "718c275e912a07cc319da0f61d949f61ebd224fb384a069dd605356449e2dd07",
+      "updated": "2026-07-28T08:03:08.607Z"
+    },
+    {
+      "url": "https://m3.material.io/components/snackbar/accessibility",
+      "skill": "m3-components-snackbar",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/26cf2750-80f7-43f8-a155-834aa01276df.json",
+      "sha256": "718c275e912a07cc319da0f61d949f61ebd224fb384a069dd605356449e2dd07",
+      "updated": "2026-07-28T08:03:08.607Z"
+    },
+    {
+      "url": "https://m3.material.io/components/tabs",
+      "skill": "m3-components-tabs",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f37f47ba-8e67-4f1e-98a3-3bea94879e52.json",
+      "sha256": "22d722407b2afd8c9ed0e5f80a1997e27517dea254234cf105dbda3dfa8229c0",
+      "updated": "2026-07-17T07:03:01.541Z"
+    },
+    {
+      "url": "https://m3.material.io/components/tabs/overview",
+      "skill": "m3-components-tabs",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f37f47ba-8e67-4f1e-98a3-3bea94879e52.json",
+      "sha256": "22d722407b2afd8c9ed0e5f80a1997e27517dea254234cf105dbda3dfa8229c0",
+      "updated": "2026-07-17T07:03:01.541Z"
+    },
+    {
+      "url": "https://m3.material.io/components/tabs/specs",
+      "skill": "m3-components-tabs",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f37f47ba-8e67-4f1e-98a3-3bea94879e52.json",
+      "sha256": "22d722407b2afd8c9ed0e5f80a1997e27517dea254234cf105dbda3dfa8229c0",
+      "updated": "2026-07-17T07:03:01.541Z"
+    },
+    {
+      "url": "https://m3.material.io/components/tabs/guidelines",
+      "skill": "m3-components-tabs",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f37f47ba-8e67-4f1e-98a3-3bea94879e52.json",
+      "sha256": "22d722407b2afd8c9ed0e5f80a1997e27517dea254234cf105dbda3dfa8229c0",
+      "updated": "2026-07-17T07:03:01.541Z"
+    },
+    {
+      "url": "https://m3.material.io/components/tabs/accessibility",
+      "skill": "m3-components-tabs",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f37f47ba-8e67-4f1e-98a3-3bea94879e52.json",
+      "sha256": "22d722407b2afd8c9ed0e5f80a1997e27517dea254234cf105dbda3dfa8229c0",
+      "updated": "2026-07-17T07:03:01.541Z"
+    },
+    {
+      "url": "https://m3.material.io/components/text-fields",
+      "skill": "m3-components-text-fields",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/8741ef66-1a80-4b39-adb1-66bea5e6992f.json",
+      "sha256": "8860ca05e947a969bb9e29b320b96c4f0cc66fbd03ef42fc0548623c1ed0d1d9",
+      "updated": "2026-09-08T08:21:17.878Z"
+    },
+    {
+      "url": "https://m3.material.io/components/text-fields/overview",
+      "skill": "m3-components-text-fields",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/8741ef66-1a80-4b39-adb1-66bea5e6992f.json",
+      "sha256": "8860ca05e947a969bb9e29b320b96c4f0cc66fbd03ef42fc0548623c1ed0d1d9",
+      "updated": "2026-09-08T08:21:17.878Z"
+    },
+    {
+      "url": "https://m3.material.io/components/text-fields/specs",
+      "skill": "m3-components-text-fields",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/8741ef66-1a80-4b39-adb1-66bea5e6992f.json",
+      "sha256": "8860ca05e947a969bb9e29b320b96c4f0cc66fbd03ef42fc0548623c1ed0d1d9",
+      "updated": "2026-09-08T08:21:17.878Z"
+    },
+    {
+      "url": "https://m3.material.io/components/text-fields/guidelines",
+      "skill": "m3-components-text-fields",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/8741ef66-1a80-4b39-adb1-66bea5e6992f.json",
+      "sha256": "8860ca05e947a969bb9e29b320b96c4f0cc66fbd03ef42fc0548623c1ed0d1d9",
+      "updated": "2026-09-08T08:21:17.878Z"
+    },
+    {
+      "url": "https://m3.material.io/components/text-fields/accessibility",
+      "skill": "m3-components-text-fields",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/8741ef66-1a80-4b39-adb1-66bea5e6992f.json",
+      "sha256": "8860ca05e947a969bb9e29b320b96c4f0cc66fbd03ef42fc0548623c1ed0d1d9",
+      "updated": "2026-09-08T08:21:17.878Z"
+    },
+    {
+      "url": "https://m3.material.io/components/toolbars",
+      "skill": "m3-components-toolbars",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4dc1681d-978a-4927-9ffa-8e2bd3796f64.json",
+      "sha256": "478f7540c65e76908e945212fc57bef6ae105439e28b802a7fb2f5fc9a1e93e4",
+      "updated": "2026-07-28T08:14:45.120Z"
+    },
+    {
+      "url": "https://m3.material.io/components/toolbars/overview",
+      "skill": "m3-components-toolbars",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4dc1681d-978a-4927-9ffa-8e2bd3796f64.json",
+      "sha256": "478f7540c65e76908e945212fc57bef6ae105439e28b802a7fb2f5fc9a1e93e4",
+      "updated": "2026-07-28T08:14:45.120Z"
+    },
+    {
+      "url": "https://m3.material.io/components/toolbars/specs",
+      "skill": "m3-components-toolbars",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4dc1681d-978a-4927-9ffa-8e2bd3796f64.json",
+      "sha256": "478f7540c65e76908e945212fc57bef6ae105439e28b802a7fb2f5fc9a1e93e4",
+      "updated": "2026-07-28T08:14:45.120Z"
+    },
+    {
+      "url": "https://m3.material.io/components/toolbars/guidelines",
+      "skill": "m3-components-toolbars",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4dc1681d-978a-4927-9ffa-8e2bd3796f64.json",
+      "sha256": "478f7540c65e76908e945212fc57bef6ae105439e28b802a7fb2f5fc9a1e93e4",
+      "updated": "2026-07-28T08:14:45.120Z"
+    },
+    {
+      "url": "https://m3.material.io/components/toolbars/accessibility",
+      "skill": "m3-components-toolbars",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/4dc1681d-978a-4927-9ffa-8e2bd3796f64.json",
+      "sha256": "478f7540c65e76908e945212fc57bef6ae105439e28b802a7fb2f5fc9a1e93e4",
+      "updated": "2026-07-28T08:14:45.120Z"
+    },
+    {
+      "url": "https://m3.material.io/components/tooltips",
+      "skill": "m3-components-tooltips",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/cb07b841-eae0-4959-bbab-25b1971714ca.json",
+      "sha256": "ce6cad82109421d3fcfa68f9814c63486a9212eb4f05284584bc96ac9a76bd5f",
+      "updated": "2026-07-17T07:03:02.412Z"
+    },
+    {
+      "url": "https://m3.material.io/components/tooltips/overview",
+      "skill": "m3-components-tooltips",
+      "section": "overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/cb07b841-eae0-4959-bbab-25b1971714ca.json",
+      "sha256": "ce6cad82109421d3fcfa68f9814c63486a9212eb4f05284584bc96ac9a76bd5f",
+      "updated": "2026-07-17T07:03:02.412Z"
+    },
+    {
+      "url": "https://m3.material.io/components/tooltips/specs",
+      "skill": "m3-components-tooltips",
+      "section": "specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/cb07b841-eae0-4959-bbab-25b1971714ca.json",
+      "sha256": "ce6cad82109421d3fcfa68f9814c63486a9212eb4f05284584bc96ac9a76bd5f",
+      "updated": "2026-07-17T07:03:02.412Z"
+    },
+    {
+      "url": "https://m3.material.io/components/tooltips/guidelines",
+      "skill": "m3-components-tooltips",
+      "section": "guidelines",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/cb07b841-eae0-4959-bbab-25b1971714ca.json",
+      "sha256": "ce6cad82109421d3fcfa68f9814c63486a9212eb4f05284584bc96ac9a76bd5f",
+      "updated": "2026-07-17T07:03:02.412Z"
+    },
+    {
+      "url": "https://m3.material.io/components/tooltips/accessibility",
+      "skill": "m3-components-tooltips",
+      "section": "accessibility",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/cb07b841-eae0-4959-bbab-25b1971714ca.json",
+      "sha256": "ce6cad82109421d3fcfa68f9814c63486a9212eb4f05284584bc96ac9a76bd5f",
+      "updated": "2026-07-17T07:03:02.412Z"
+    }
+  ]
+}
