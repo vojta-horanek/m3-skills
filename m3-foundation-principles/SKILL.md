@@ -27,8 +27,7 @@ Material foundations cover accessibility, writing, information design, interacti
 Tokens carry shared style values across design, code, tools, and platforms.
 States communicate the status of interactive elements. Layout arranges elements on a screen.
 
-For a field-specific task, use the relevant skill in the [source map](references/source-map.md).
-The map accounts for every source in this skill set.
+For a field-specific task, use the relevant skill listed in the [source manifest](../m3-foundation-sources.json).
 
 ## Review
 

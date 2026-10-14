@@ -7,7 +7,8 @@ description: Design and verify Material 3 dynamic color sourced from an Android 
 
 Use only the directions from the supplied Material 3 sources. Do not invent missing values or behavior.
 
-Read [source details](references/source-map.md) for section links, source tables, diagrams, and token modules.
+Read the [source manifest](../m3-styles-sources.json) for source coverage.
+Open the supplied source pages for tables, diagrams, and token modules.
 
 Source: [Dynamic: User-generated source](https://m3.material.io/styles/color/dynamic/user-generated-source).
 

@@ -7,7 +7,8 @@ description: Design, implement, test, or verify Material 3 button selection, act
 
 Use only the directions supported by the linked Material 3 sources. Do not infer missing measurements or behavior.
 
-Read [source details](references/source-map.md) for source coverage, measurement diagrams, and token-table locations.
+Read the [source manifest](../m3-components-sources.json) for source coverage.
+Open the supplied source pages for measurement diagrams and token tables.
 
 Source: [All buttons](https://m3.material.io/components/all-buttons).
 

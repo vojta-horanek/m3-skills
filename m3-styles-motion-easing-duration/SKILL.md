@@ -7,7 +7,8 @@ description: Apply or verify Material 3 legacy easing, durations, transition def
 
 Use only the directions from the supplied Material 3 sources. Do not invent missing values or behavior.
 
-Read [source details](references/source-map.md) for section links, source tables, diagrams, and token modules.
+Read the [source manifest](../m3-styles-sources.json) for source coverage.
+Open the supplied source pages for tables, diagrams, and token modules.
 
 Source: [Easing and duration: Applying easing and duration](https://m3.material.io/styles/motion/easing-and-duration).
 
@@ -40,7 +41,7 @@ Source: [Easing and duration: Tokens & specs](https://m3.material.io/styles/moti
 - Use the source's exact easing and duration tokens.
 - Use Standard as the CSS and iOS fallback for the full emphasized curve.
 - Do not replace the full emphasized path with an invented single cubic curve.
-- Read the source map for platform curves and the complete duration table.
+- Read the supplied easing and duration page for platform curves and the complete duration table.
 
 ## Verify
 
