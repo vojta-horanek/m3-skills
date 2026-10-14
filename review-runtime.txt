@@ -1,0 +1,11 @@
+Use a dedicated review agent with $m3-review-runtime to review application changes against main.
+
+Consider every Material 3 area covered by the available skills. Check affected screens, shared components, and user journeys in the running application. Use an available browser, emulator, or device for live visual and interaction checks.
+
+Check relevant states, keyboard behavior, accessibility, layouts, themes, and locales. Record the application version and environment for each check. Use project sources to trace causes and locate fixes.
+
+Report violations, improvements, unverified concerns, and overall runtime review readiness. For each finding, include severity, reproduction steps, observed behavior, application location, exact skill section, and original source. Include the fix direction and verification steps.
+
+Account for excluded areas and verification gaps. If runtime access is unavailable, report the limit and mark affected checks as not verified. Do not claim runtime validation from source inspection. Do not modify application files.
+
+If a dedicated agent is unavailable, perform the review directly.
