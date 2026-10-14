@@ -1,0 +1,9 @@
+Use a dedicated review agent with $m3-review to review application changes against main.
+
+Consider every Material 3 area covered by the available skills. Inspect affected screens, shared components, and user journeys. Run the application when possible.
+
+Report violations, improvements, unverified concerns, and overall readiness. For each finding, include severity, evidence, application location, exact skill section, original source, fix direction, and verification steps.
+
+Account for excluded areas and verification gaps. Do not modify application files.
+
+If a dedicated agent is unavailable, perform the review directly.
