@@ -1,0 +1,313 @@
+{
+  "extraction_date": "2026-10-14",
+  "content_version": "2026-09-23_06-10-05",
+  "skill_count": 25,
+  "supplied_resource_count": 37,
+  "resources": [
+    {
+      "url": "https://m3.material.io/styles/color/advanced",
+      "skill": "m3-styles-color-application",
+      "section": "Overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/eee5a035-c309-4c67-afb5-6b4c6dd8ec4e.json",
+      "sha256": "baf836a790e28a9f9d8421d0a743d95a2babb44a29e205785ad4791daaddea35",
+      "updated": "2026-07-17T04:53:46.229Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/advanced/adjust-existing-colors",
+      "skill": "m3-styles-color-adjustments",
+      "section": "Adjust existing colors",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/eee5a035-c309-4c67-afb5-6b4c6dd8ec4e.json",
+      "sha256": "baf836a790e28a9f9d8421d0a743d95a2babb44a29e205785ad4791daaddea35",
+      "updated": "2026-07-17T04:53:46.229Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/advanced/apply-colors",
+      "skill": "m3-styles-color-application",
+      "section": "Apply colors",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/eee5a035-c309-4c67-afb5-6b4c6dd8ec4e.json",
+      "sha256": "baf836a790e28a9f9d8421d0a743d95a2babb44a29e205785ad4791daaddea35",
+      "updated": "2026-07-17T04:53:46.229Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/advanced/define-new-colors",
+      "skill": "m3-styles-color-custom-roles",
+      "section": "Define new colors",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/eee5a035-c309-4c67-afb5-6b4c6dd8ec4e.json",
+      "sha256": "baf836a790e28a9f9d8421d0a743d95a2babb44a29e205785ad4791daaddea35",
+      "updated": "2026-07-17T04:53:46.229Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/choosing-a-scheme",
+      "skill": "m3-styles-color-schemes",
+      "section": "Tab 1",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/a4aa0cf5-4017-4dea-ae51-edb8e950bd2c.json",
+      "sha256": "41fb73ef7e75c71eab9096fcd1424caf0b62f4f836ab7a77db4cfa251edb7ece",
+      "updated": "2026-07-17T04:58:33.154Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/dynamic",
+      "skill": "m3-styles-color-dynamic-sources",
+      "section": "Choosing a source",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/03571013-d450-49cc-8300-4c7ee70bb4ca.json",
+      "sha256": "56604934f153cb324c553ecc43db2de9def353172e18b8569c8f5042a8ef413f",
+      "updated": "2026-07-17T05:04:01.999Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/dynamic/content-based-source",
+      "skill": "m3-styles-color-content-based",
+      "section": "Content-based source",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/03571013-d450-49cc-8300-4c7ee70bb4ca.json",
+      "sha256": "56604934f153cb324c553ecc43db2de9def353172e18b8569c8f5042a8ef413f",
+      "updated": "2026-07-17T05:04:01.999Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/dynamic/user-generated-source",
+      "skill": "m3-styles-color-user-generated",
+      "section": "User-generated source",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/03571013-d450-49cc-8300-4c7ee70bb4ca.json",
+      "sha256": "56604934f153cb324c553ecc43db2de9def353172e18b8569c8f5042a8ef413f",
+      "updated": "2026-07-17T05:04:01.999Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/resources",
+      "skill": "m3-styles-color-resources",
+      "section": "Tab 1",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/e5cd1701-c004-498e-a4ec-620446227c51.json",
+      "sha256": "368cdc831e0647095608c26ec474965a4708236b4eb8e305e5a60bf9e1ce0a85",
+      "updated": "2026-07-17T04:58:29.062Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/roles",
+      "skill": "m3-styles-color-roles",
+      "section": "Tab 1",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/ced25aa3-a367-44c6-a47e-439bc9e59d68.json",
+      "sha256": "bfe2ae1d4abf02f6e13bd8ff3eb6164f707b4bc3c69a3029fa9c8b6d5617f954",
+      "updated": "2026-07-27T13:48:22.900Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/static",
+      "skill": "m3-styles-color-static",
+      "section": "Baseline",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/247d635f-924c-4e83-8383-94965fe769e2.json",
+      "sha256": "e5f35994cd38215502615d35b8a4d61653be5b720f82e85e3e3b317e1072eaad",
+      "updated": "2026-07-17T05:32:35.739Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/static/custom-brand",
+      "skill": "m3-styles-color-brand",
+      "section": "Custom brand",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/247d635f-924c-4e83-8383-94965fe769e2.json",
+      "sha256": "e5f35994cd38215502615d35b8a4d61653be5b720f82e85e3e3b317e1072eaad",
+      "updated": "2026-07-17T05:32:35.739Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/system/how-the-system-works",
+      "skill": "m3-styles-color-system",
+      "section": "How the system works",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/89e1e9ce-0d9c-4391-9182-818434527cda.json",
+      "sha256": "944551233edd493d1d853eb060e5159647b1a16d3bcac78e43236bff061395a0",
+      "updated": "2026-07-23T20:32:56.894Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/color/system/overview",
+      "skill": "m3-styles-color-system",
+      "section": "Overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/89e1e9ce-0d9c-4391-9182-818434527cda.json",
+      "sha256": "944551233edd493d1d853eb060e5159647b1a16d3bcac78e43236bff061395a0",
+      "updated": "2026-07-23T20:32:56.894Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/elevation",
+      "skill": "m3-styles-elevation",
+      "section": "Overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/38354be9-206b-4988-96a8-0f2a88074511.json",
+      "sha256": "2fe064c57941c6e60c9cd715a737079faf0c54ca0ee0a585b8ab7fa488df05ec",
+      "updated": "2026-07-17T05:03:59.318Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/elevation/applying-elevation",
+      "skill": "m3-styles-elevation",
+      "section": "Applying elevation",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/38354be9-206b-4988-96a8-0f2a88074511.json",
+      "sha256": "2fe064c57941c6e60c9cd715a737079faf0c54ca0ee0a585b8ab7fa488df05ec",
+      "updated": "2026-07-17T05:03:59.318Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/elevation/tokens",
+      "skill": "m3-styles-elevation",
+      "section": "Tokens",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/38354be9-206b-4988-96a8-0f2a88074511.json",
+      "sha256": "2fe064c57941c6e60c9cd715a737079faf0c54ca0ee0a585b8ab7fa488df05ec",
+      "updated": "2026-07-17T05:03:59.318Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/icons",
+      "skill": "m3-styles-icons-application",
+      "section": "Overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/17aed561-a58a-44d4-852e-1e5be253a641.json",
+      "sha256": "dab1544c167f5abd309330c3910d30433d509e8e66aa7a05c85496539e81ccc7",
+      "updated": "2026-07-17T05:07:23.551Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/icons/applying-icons",
+      "skill": "m3-styles-icons-application",
+      "section": "Applying icons",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/17aed561-a58a-44d4-852e-1e5be253a641.json",
+      "sha256": "dab1544c167f5abd309330c3910d30433d509e8e66aa7a05c85496539e81ccc7",
+      "updated": "2026-07-17T05:07:23.551Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/icons/designing-icons",
+      "skill": "m3-styles-icons-design",
+      "section": "Designing icons",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/17aed561-a58a-44d4-852e-1e5be253a641.json",
+      "sha256": "dab1544c167f5abd309330c3910d30433d509e8e66aa7a05c85496539e81ccc7",
+      "updated": "2026-07-17T05:07:23.551Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/motion/easing-and-duration",
+      "skill": "m3-styles-motion-easing-duration",
+      "section": "Applying easing and duration",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1d658c3f-ba19-48be-9b71-872c72c7166e.json",
+      "sha256": "1ce505e4f0ccc8756921a8d04f7d326958b462866a5d5a26e390ff2a4474831b",
+      "updated": "2026-07-17T05:03:58.337Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/motion/easing-and-duration/tokens-specs",
+      "skill": "m3-styles-motion-easing-duration",
+      "section": "Tokens & specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/1d658c3f-ba19-48be-9b71-872c72c7166e.json",
+      "sha256": "1ce505e4f0ccc8756921a8d04f7d326958b462866a5d5a26e390ff2a4474831b",
+      "updated": "2026-07-17T05:03:58.337Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/motion/overview",
+      "skill": "m3-styles-motion-springs",
+      "section": "How it works",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/ccf2c3e9-82b5-4c4a-9570-b0d08d95c0c1.json",
+      "sha256": "1b8a277609134946eb43072113995e64985dad1c132ffee431538c342af09a4c",
+      "updated": "2026-07-17T05:25:55.367Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/motion/overview/specs",
+      "skill": "m3-styles-motion-springs",
+      "section": "Specs",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/ccf2c3e9-82b5-4c4a-9570-b0d08d95c0c1.json",
+      "sha256": "1b8a277609134946eb43072113995e64985dad1c132ffee431538c342af09a4c",
+      "updated": "2026-07-17T05:25:55.367Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/motion/transitions",
+      "skill": "m3-styles-motion-transitions",
+      "section": "Transition patterns",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/2b9bdc79-df8e-4ad2-bdca-e0a3f083cd33.json",
+      "sha256": "06fa513522f7c46f5fb3645a383f875e3d412788a43f97b3c3a0d8605bd41958",
+      "updated": "2026-07-17T05:34:42.925Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/motion/transitions/applying-transitions",
+      "skill": "m3-styles-motion-transitions",
+      "section": "Applying transitions",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/2b9bdc79-df8e-4ad2-bdca-e0a3f083cd33.json",
+      "sha256": "06fa513522f7c46f5fb3645a383f875e3d412788a43f97b3c3a0d8605bd41958",
+      "updated": "2026-07-17T05:34:42.925Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/shape",
+      "skill": "m3-styles-shape",
+      "section": "Overview & principles",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/5e04e8f6-7da6-475e-a1b0-3818021c0cea.json",
+      "sha256": "ff55bf4b4d97379f10dc25bd1f6d76f2fdf093a6821ea5426b8732e1db40dde8",
+      "updated": "2026-07-17T05:28:54.725Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/shape",
+      "skill": "m3-styles-shape-morph",
+      "section": "Overview & principles",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/5e04e8f6-7da6-475e-a1b0-3818021c0cea.json",
+      "sha256": "ff55bf4b4d97379f10dc25bd1f6d76f2fdf093a6821ea5426b8732e1db40dde8",
+      "updated": "2026-07-17T05:28:54.725Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/shape/corner-radius-scale",
+      "skill": "m3-styles-shape",
+      "section": "Corner radius scale",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/5e04e8f6-7da6-475e-a1b0-3818021c0cea.json",
+      "sha256": "ff55bf4b4d97379f10dc25bd1f6d76f2fdf093a6821ea5426b8732e1db40dde8",
+      "updated": "2026-07-17T05:28:54.725Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/shape/shape-morph",
+      "skill": "m3-styles-shape-morph",
+      "section": "Shape morph",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/5e04e8f6-7da6-475e-a1b0-3818021c0cea.json",
+      "sha256": "ff55bf4b4d97379f10dc25bd1f6d76f2fdf093a6821ea5426b8732e1db40dde8",
+      "updated": "2026-07-17T05:28:54.725Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/spacing",
+      "skill": "m3-styles-spacing",
+      "section": "Overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/36e81931-9b87-406f-9ec5-c0cc049564d8.json",
+      "sha256": "403f9a462356eeb586661910bc32987535cf1875ed12bbac4b436c69e5891524",
+      "updated": "2026-07-17T05:30:24.800Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/spacing/applying-spacing",
+      "skill": "m3-styles-spacing",
+      "section": "Applying spacing",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/36e81931-9b87-406f-9ec5-c0cc049564d8.json",
+      "sha256": "403f9a462356eeb586661910bc32987535cf1875ed12bbac4b436c69e5891524",
+      "updated": "2026-07-17T05:30:24.800Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/spacing/tokens",
+      "skill": "m3-styles-spacing",
+      "section": "Tokens",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/36e81931-9b87-406f-9ec5-c0cc049564d8.json",
+      "sha256": "403f9a462356eeb586661910bc32987535cf1875ed12bbac4b436c69e5891524",
+      "updated": "2026-07-17T05:30:24.800Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/typography",
+      "skill": "m3-styles-typography-scale",
+      "section": "Overview",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f6a1d89a-1bbf-46d1-a177-f13b074897a5.json",
+      "sha256": "02f5444b31fb6d021dfaef3eac3bd6017a48d1906c48f24deb694130f1b994a9",
+      "updated": "2026-08-28T15:09:40.768Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/typography/applying-type",
+      "skill": "m3-styles-typography-application",
+      "section": "Applying type",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f6a1d89a-1bbf-46d1-a177-f13b074897a5.json",
+      "sha256": "02f5444b31fb6d021dfaef3eac3bd6017a48d1906c48f24deb694130f1b994a9",
+      "updated": "2026-08-28T15:09:40.768Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/typography/editorial-treatments",
+      "skill": "m3-styles-typography-editorial",
+      "section": "Editorial treatments",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f6a1d89a-1bbf-46d1-a177-f13b074897a5.json",
+      "sha256": "02f5444b31fb6d021dfaef3eac3bd6017a48d1906c48f24deb694130f1b994a9",
+      "updated": "2026-08-28T15:09:40.768Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/typography/fonts",
+      "skill": "m3-styles-typography-fonts",
+      "section": "Fonts",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f6a1d89a-1bbf-46d1-a177-f13b074897a5.json",
+      "sha256": "02f5444b31fb6d021dfaef3eac3bd6017a48d1906c48f24deb694130f1b994a9",
+      "updated": "2026-08-28T15:09:40.768Z"
+    },
+    {
+      "url": "https://m3.material.io/styles/typography/type-scale-tokens",
+      "skill": "m3-styles-typography-scale",
+      "section": "Type scale & tokens",
+      "content_url": "https://m3.material.io/_dsm/content/m3/2026-09-23_06-10-05/f6a1d89a-1bbf-46d1-a177-f13b074897a5.json",
+      "sha256": "02f5444b31fb6d021dfaef3eac3bd6017a48d1906c48f24deb694130f1b994a9",
+      "updated": "2026-08-28T15:09:40.768Z"
+    }
+  ],
+  "unique_supplied_resources_used": 37
+}
