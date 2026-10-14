@@ -7,8 +7,7 @@ description: Use the Material 3 color resources page to select Theme Builder tas
 
 Use only the directions from the supplied Material 3 sources. Do not invent missing values or behavior.
 
-Read the [source manifest](../m3-styles-sources.json) for source coverage.
-Open the supplied source pages for tables, diagrams, and token modules.
+Read [source details](references/source-map.md) for section links, source tables, diagrams, and token modules.
 
 Source: [Color resources: Tab 1](https://m3.material.io/styles/color/resources).
 
@@ -21,5 +20,5 @@ Source: [Color resources: Tab 1](https://m3.material.io/styles/color/resources).
 - Use Customizing Material color for custom themes and Figma mockups.
 - Use Build a Material color scheme for the roles used in Material components.
 
-Open the supplied color resources page for its published resource links.
+Open the source map for the resource links published on the supplied page.
 Do not treat this resource index as additional color specifications.

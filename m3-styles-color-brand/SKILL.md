@@ -7,8 +7,7 @@ description: Create, apply, export, or verify Material 3 static brand color sche
 
 Use only the directions from the supplied Material 3 sources. Do not invent missing values or behavior.
 
-Read the [source manifest](../m3-styles-sources.json) for source coverage.
-Open the supplied source pages for tables, diagrams, and token modules.
+Read [source details](references/source-map.md) for section links, source tables, diagrams, and token modules.
 
 Source: [Static: Custom brand](https://m3.material.io/styles/color/static/custom-brand).
 

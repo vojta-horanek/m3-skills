@@ -7,8 +7,7 @@ description: Implement and verify Material 3 physics motion schemes, spatial spr
 
 Use only the directions from the supplied Material 3 sources. Do not invent missing values or behavior.
 
-Read the [source manifest](../m3-styles-sources.json) for source coverage.
-Open the supplied source pages for tables, diagrams, and token modules.
+Read [source details](references/source-map.md) for section links, source tables, diagrams, and token modules.
 
 Source: [Motion physics system: How it works](https://m3.material.io/styles/motion/overview).
 
@@ -41,7 +40,7 @@ Source: [Motion physics system: Specs](https://m3.material.io/styles/motion/over
 - On Android Views, use built-in spring tokens. Do not assume components already apply them.
 - On Web, use springs where possible.
 - Use the source conversion curves only for animations without gestures or interruptions.
-- Read the supplied spring motion page for exact spring-to-curve pairs.
+- Read the source map for exact spring-to-curve pairs.
 - Keep transition-specific legacy guidance separate from component spring motion.
 
 ## Verify

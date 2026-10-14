@@ -7,8 +7,7 @@ description: Design, implement, or verify Material 3 elevation levels, tonal sep
 
 Use only the directions from the supplied Material 3 sources. Do not invent missing values or behavior.
 
-Read the [source manifest](../m3-styles-sources.json) for source coverage.
-Open the supplied source pages for tables, diagrams, and token modules.
+Read [source details](references/source-map.md) for section links, source tables, diagrams, and token modules.
 
 Source: [Elevation: Overview](https://m3.material.io/styles/elevation).
 
@@ -36,7 +35,7 @@ Source: [Elevation: Tokens](https://m3.material.io/styles/elevation/tokens).
 | 4 | 8dp |
 | 5 | 12dp |
 
-Read the supplied elevation tokens page's component table before assigning a component level.
+Read the source map's component elevation table before assigning a component level.
 
 ## Depict separation
 
